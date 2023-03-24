@@ -1,0 +1,521 @@
+fileFormatVersion: 2
+guid: 5e0ed9c44eb07324f8738c1de789d7de
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "gray modern main map graph (2000 \xD7 768 px) (9)_0"
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 77
+        width: 638
+        height: 685
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229a0db4d899f1b4d8737039fd12685a
+      internalID: 1655766225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "gray modern main map graph (2000 \xD7 768 px) (9)_1"
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 568
+        width: 277
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7aff435ca2fce458df76cb483b1be1
+      internalID: -53982924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "gray modern main map graph (2000 \xD7 768 px) (9)_2"
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 568
+        width: 330
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1723741834fb0624c8b739110d1011f8
+      internalID: 266030386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "gray modern main map graph (2000 \xD7 768 px) (9)_3"
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 735
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fec1e0c4f5f75d4ea4009850fc67a6f
+      internalID: -1898927451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "gray modern main map graph (2000 \xD7 768 px) (9)_4"
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 732
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1e82d08a0e897408d589d9c694fe25
+      internalID: -338440411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "gray modern main map graph (2000 \xD7 768 px) (9)_5"
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 636
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ee51ce2757032409fb40ef8a66e32c
+      internalID: 619772936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "gray modern main map graph (2000 \xD7 768 px) (9)_6"
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 570
+        width: 272
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce7b5cc7d8a71d4793bf0d8c0355eb6
+      internalID: -1655933696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "gray modern main map graph (2000 \xD7 768 px) (9)_7"
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 567
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f80368bb56e2441aff8336fe482e18
+      internalID: 1454156770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "gray modern main map graph (2000 \xD7 768 px) (9)_8"
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 282
+        width: 563
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92063b838d6a76640aa9a2b5b2fc5f97
+      internalID: -1587705186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "gray modern main map graph (2000 \xD7 768 px) (9)_9"
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 331
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46201794343de7041829b02063746abd
+      internalID: -1533487788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "gray modern main map graph (2000 \xD7 768 px) (9)_10"
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 282
+        width: 448
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504b9f5ab7fb64849bbd96558ad21279
+      internalID: -2078146457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "gray modern main map graph (2000 \xD7 768 px) (9)_11"
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 84
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2026a405612709940a806d4d8b4ef095
+      internalID: 432337588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "gray modern main map graph (2000 \xD7 768 px) (9)_12"
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 54
+        width: 494
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9d0bd5a9c76934bb8706c1b965fba5
+      internalID: 103791757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "gray modern main map graph (2000 \xD7 768 px) (9)_13"
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 49
+        width: 468
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9d48b1998479e4397d7fcaef9780c0
+      internalID: -1268471014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "gray modern main map graph (2000 \xD7 768 px) (9)_14"
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 51
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981ee8c89e231e64c86ff88938eb2cb5
+      internalID: 1316881507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "gray modern main map graph (2000 \xD7 768 px) (9)_15"
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 51
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5437d248a3aa03e4eaf0964eb382b0c1
+      internalID: 643442726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "gray modern main map graph (2000 \xD7 768 px) (9)_16"
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 51
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d786ded39f37bdd4d9698e2b46aae3ce
+      internalID: 1996744189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "gray modern main map graph (2000 \xD7 768 px) (9)_0": 1655766225
+      "gray modern main map graph (2000 \xD7 768 px) (9)_1": -53982924
+      "gray modern main map graph (2000 \xD7 768 px) (9)_10": -2078146457
+      "gray modern main map graph (2000 \xD7 768 px) (9)_11": 432337588
+      "gray modern main map graph (2000 \xD7 768 px) (9)_12": 103791757
+      "gray modern main map graph (2000 \xD7 768 px) (9)_13": -1268471014
+      "gray modern main map graph (2000 \xD7 768 px) (9)_14": 1316881507
+      "gray modern main map graph (2000 \xD7 768 px) (9)_15": 643442726
+      "gray modern main map graph (2000 \xD7 768 px) (9)_16": 1996744189
+      "gray modern main map graph (2000 \xD7 768 px) (9)_2": 266030386
+      "gray modern main map graph (2000 \xD7 768 px) (9)_3": -1898927451
+      "gray modern main map graph (2000 \xD7 768 px) (9)_4": -338440411
+      "gray modern main map graph (2000 \xD7 768 px) (9)_5": 619772936
+      "gray modern main map graph (2000 \xD7 768 px) (9)_6": -1655933696
+      "gray modern main map graph (2000 \xD7 768 px) (9)_7": 1454156770
+      "gray modern main map graph (2000 \xD7 768 px) (9)_8": -1587705186
+      "gray modern main map graph (2000 \xD7 768 px) (9)_9": -1533487788
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
